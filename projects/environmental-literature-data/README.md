@@ -1,50 +1,72 @@
 # Environmental Literature & Data Extraction
 
-**Focus:** Literature Review · Data Extraction · Data Standardization · Quality Control
+> **500+ Papers · 2,000+ Records · Data Extraction · Standardization · Quality Control**
 
-## Project Overview
+## 01 · Project Snapshot
 
-I supported a senior student's research by systematically screening environmental literature and extracting structured data from published studies.
+| Metric | Scale |
+|---|---:|
+| **Papers screened** | **500+** |
+| **Records extracted** | **2,000+** |
+| **Duration** | Approximately 2 months |
+| **Purpose** | Support a senior student's environmental research |
 
-## Scale
+## 02 · The Challenge
 
-- **500+ papers screened**
-- **2,000+ records extracted and organized**
-- Work completed over approximately two months
+Published environmental studies often contain information in different formats:
+- Abstracts
+- Tables
+- Figures
+- Main text
+- Supplementary materials
+- Different units / reporting conventions
 
-## Screening Workflow
+The challenge was not simply copying numbers. It was deciding **whether a study qualified, where the required information was located, and how heterogeneous information could be standardized**.
 
-```text
-Abstract Screening
-        ↓
-Study Region / Location Check
-        ↓
-Method Fit Check
-        ↓
-Figure / Table Data Extraction
-        ↓
-Text & Supplementary Information Check
-        ↓
-Data Standardization / Conversion
-        ↓
-Quality Control
-```
+## 03 · Screening & Extraction Workflow
 
-## My Work
+~~~mermaid
+flowchart TD
+A[Abstract Screening] --> B[Study Region / Location]
+B --> C[Method Fit]
+C --> D[Figure / Table Extraction]
+D --> E[Text Check]
+E --> F[Supplementary Information]
+F --> G[Standardization / Conversion]
+G --> H[Quality Control]
+~~~
 
-- Screened papers according to predefined inclusion criteria.
-- Identified study regions and methodological fit.
+## 04 · My Contribution
+
+### Literature Screening
+- Screened papers according to predefined criteria.
+- Checked study location and methodological fit.
+
+### Data Extraction
 - Extracted required information from figures, tables and text.
-- Checked supplementary materials when necessary.
-- Applied unified screening and conversion standards to inconsistent data.
-- Organized the final structured dataset for downstream research.
+- Checked supplementary information when necessary.
 
-## What This Project Shows
+### Standardization
+- Applied unified screening and conversion rules.
+- Handled inconsistent presentation formats.
 
-The project demonstrates my ability to handle a large amount of heterogeneous information, make screening judgments under defined criteria, standardize data and maintain research quality.
+### Quality Control
+- Cross-checked extracted information.
+- Organized structured records for downstream research.
 
-## Skills
+## 05 · What This Project Shows
 
-**Literature Review · Data Extraction · Data Standardization · Quality Control · Environmental Research · Information Management**
+**Large information volume → screening judgment → structured extraction → standardization → quality control**
 
-> The underlying dataset belongs to the associated research work and is therefore not publicly uploaded.
+Relevant to:
+
+**ESG Data · Sustainability Research · Industry Research · Consulting · Environmental Data**
+
+## 06 · Portfolio Evidence
+
+Recommended visuals:
+- literature-screening-flow.png
+- data-extraction-example.png (anonymized/self-created example)
+- data-standardization-example.png
+
+> The underlying research dataset is not publicly uploaded because it belongs to the associated research work.
