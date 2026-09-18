@@ -1,35 +1,74 @@
 # EV Battery Recycling & ESG Impact Analysis
 
-**Focus:** ESG · Circular Economy · Industry Research · Sustainability
+> **ESG · Circular Economy · Power Battery Recycling · Industry Research**
 
-## Project Overview
+## 01 · Project Snapshot
 
-This project examined the sustainability and ESG implications of power-battery recycling, with attention to the environmental value of resource recovery and the broader social and governance dimensions of the industry.
+| Item | Details |
+|---|---|
+| **Topic** | Power-battery recycling & ESG |
+| **Industry** | New Energy / Circular Economy |
+| **Case companies** | CATL · BYD |
+| **My role** | Research · Case comparison · Report & presentation |
+| **Output** | Course research report + presentation |
 
-The project used company cases including CATL and BYD for comparative analysis.
+### Why this project matters
 
-## My Work
+Power-battery recycling sits at the intersection of **resource security, circular economy, carbon reduction and corporate sustainability**. This project helped me connect environmental knowledge with company-level ESG analysis.
 
-- Researched the power-battery recycling industry and relevant sustainability issues.
-- Collected and organized public company and policy information.
-- Compared corporate practices and identified ESG-related topics.
-- Connected battery recycling with circular economy and dual-carbon objectives.
-- Developed the project report and presentation materials.
+## 02 · Research Question
 
-## Methods
+**How can power-battery recycling create environmental value while also generating broader ESG impacts?**
 
-- Desk research
-- Policy and industry research
-- Company case comparison
-- ESG issue analysis
-- Information synthesis and presentation
+~~~text
+Battery Recycling
+       ↓
+Resource Recovery & Environmental Benefits
+       ↓
+Circular Economy / Low-carbon Transition
+       ↓
+Corporate ESG Implications
+       ↓
+Company Case Comparison
+~~~
 
-## Deliverables
+## 03 · My Contribution
 
-Course research report and presentation deck.
+### 🔎 Information Research
+- Collected public company and industry information.
+- Reviewed relevant policy and sustainability materials.
+- Organized evidence into a structured research framework.
 
-## Skills Demonstrated
+### 🏭 Company Case Comparison
+- Compared CATL and BYD from a sustainability perspective.
+- Identified relevant environmental and ESG issues.
+- Connected corporate practices with circular-economy objectives.
 
-**ESG · Circular Economy · Industry Research · Policy Research · Case Analysis · Presentation**
+### 📊 Communication
+- Synthesized findings into a structured report.
+- Developed the final presentation.
+- Communicated the analysis through a clear storyline.
 
-> Note: Original course materials and third-party copyrighted documents are not publicly uploaded in this repository.
+## 04 · Analytical Framework
+
+| Dimension | Questions considered |
+|---|---|
+| **Environmental** | Resource recovery? Waste reduction? Carbon implications? |
+| **Social** | Worker / stakeholder / supply-chain considerations? |
+| **Governance** | Corporate management, disclosure and responsibility? |
+| **Circular Economy** | How does recycling support resource circulation? |
+
+## 05 · What I Learned
+
+**environmental technology → industry context → corporate sustainability → ESG analysis**
+
+This project strengthened my interest in sustainability problems that require both **technical understanding and business/industry research**.
+
+## 06 · Portfolio Evidence
+
+Potential visuals to add later:
+- case-comparison.png
+- esg-framework.png
+- presentation-preview.png
+
+> Original course files and third-party copyrighted materials are not publicly uploaded.
