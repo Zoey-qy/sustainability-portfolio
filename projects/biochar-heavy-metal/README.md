@@ -1,36 +1,68 @@
 # Biochar-Based Heavy Metal Remediation Research
 
-**Focus:** Environmental Research · Experimental Design · Data Analysis · Scientific Communication
+> **Environmental Research · Experimental Design · Data Analysis · Scientific Communication**
 
-## Project Overview
+## 01 · Project Snapshot
 
-My environmental research experience includes biochar preparation and its application in heavy-metal remediation, with experimental work focused on adsorption and soil-related environmental processes.
+| Item | Details |
+|---|---|
+| **Research area** | Biochar + heavy-metal remediation |
+| **Work type** | Experimental research |
+| **Core skills** | Experimental design · data analysis · scientific writing |
+| **Tools** | Origin · Excel |
+| **Publication** | First-author SCI Q2 manuscript submitted and under review |
 
-## My Work
+## 02 · Research Workflow
 
-- Participated in experimental design and condition optimization.
-- Prepared and processed experimental materials and soil samples.
-- Conducted adsorption experiments and heavy-metal analysis.
-- Organized and analyzed experimental data.
-- Used Origin and Excel for data processing and visualization.
-- Contributed to scientific writing and research presentation.
+~~~mermaid
+flowchart LR
+A[Experimental Question] --> B[Material Preparation]
+B --> C[Soil / Sample Processing]
+C --> D[Adsorption Experiments]
+D --> E[Heavy-metal Analysis]
+E --> F[Data Analysis]
+F --> G[Interpretation]
+G --> H[Scientific Writing]
+~~~
 
-## Characterization / Analysis Experience
+## 03 · My Contribution
 
-Depending on the experiment, my research background includes exposure to:
+### Experimental Work
+- Participated in experimental design.
+- Prepared biochar-related experimental materials.
+- Processed soil samples.
+- Conducted adsorption experiments.
+- Supported heavy-metal analysis and condition optimization.
 
-- XRD
-- SEM / EDS
-- XPS
-- FTIR
-- Raman
+### Data Analysis
+- Organized experimental data.
+- Used Excel and Origin for processing and visualization.
+- Interpreted experimental trends.
 
-## Research Output
+### Scientific Communication
+- Contributed to manuscript preparation.
+- Developed research figures.
+- Prepared research presentation materials.
 
-A first-author SCI Q2 manuscript has been submitted and is currently under review.
+## 04 · Characterization Experience
 
-## Skills
+**XRD · SEM/EDS · XPS · FTIR · Raman**
 
-**Experimental Design · Environmental Remediation · Data Analysis · Origin · Excel · Scientific Writing · Research Presentation**
+These techniques helped me connect experimental observations with material properties and environmental performance.
 
-> Unpublished manuscript content and restricted raw experimental data are not publicly uploaded.
+## 05 · Research Output
+
+**First-author SCI Q2 manuscript — submitted and under review.**
+
+Research workflow:
+
+**Question → Experiment → Data → Interpretation → Scientific Communication**
+
+## 06 · Portfolio Evidence
+
+Potential visuals:
+- experimental-workflow.png
+- origin-analysis.png
+- characterization-example.png
+
+> Unpublished manuscript content and restricted raw experimental data are intentionally not uploaded.
