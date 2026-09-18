@@ -1,23 +1,58 @@
 # Wetland Carbon Sink Project
 
-**Focus:** Carbon Sink · Environmental Research · Project Management
+> **Carbon Sink · Environmental Research · Project Management**
 
-## Project Overview
+## 01 · Project Snapshot
 
-This project explored wetland carbon sinks from an environmental and sustainability perspective.
+| Item | Details |
+|---|---|
+| **Topic** | Wetland carbon sinks |
+| **Perspective** | Environmental research + carbon sink |
+| **My role** | Project lead / coordination / research |
+| **Output** | Project report + presentation |
 
-## My Work
+## 02 · Project Workflow
 
-- Participated in project planning and research design.
-- Organized relevant environmental and carbon-sink information.
-- Coordinated project tasks and timelines.
-- Contributed to analysis, report preparation and presentation.
-- Helped integrate research findings into a structured project output.
+~~~mermaid
+flowchart LR
+A[Research Question] --> B[Task Allocation]
+B --> C[Information & Data Collection]
+C --> D[Analysis]
+D --> E[Integration]
+E --> F[Report & Presentation]
+~~~
 
-## Project Management Experience
+## 03 · My Contribution
 
-In one project phase with unclear task division, I mapped tasks to team members' strengths, established deadlines, took responsibility for more difficult work packages, and coordinated progress toward completion.
+### Project Coordination
+- Clarified project tasks and responsibilities.
+- Matched work packages with team members' strengths.
+- Set deadlines and tracked progress.
+- Took responsibility for more difficult work packages.
 
-## Skills
+### Research
+- Organized wetland carbon-sink information.
+- Supported environmental analysis.
+- Integrated findings into a coherent project output.
 
-**Carbon Sink · Environmental Research · Project Coordination · Research Synthesis · Report Writing · Presentation**
+### Communication
+- Contributed to report preparation.
+- Developed presentation materials.
+- Supported project-level discussion and Q&A.
+
+## 04 · A Project-Management Example
+
+**Identify strengths → Reassign tasks → Set deadlines → Track progress → Take difficult tasks → Integrate outputs**
+
+This experience is one reason I am also interested in **Project Management / Technical Project roles**.
+
+## 05 · Skills Demonstrated
+
+**Carbon Sink · Environmental Research · Task Allocation · Progress Tracking · Report Writing · Presentation**
+
+## 06 · Portfolio Evidence
+
+Potential visuals:
+- project-workflow.png
+- carbon-sink-framework.png
+- presentation-preview.png
