@@ -1,30 +1,55 @@
 # Zero-Carbon Industrial Park: Policy & Industry Research
 
-**Focus:** Carbon Neutrality · Policy Research · Industry Research · Sustainability
+> **Carbon Neutrality · Policy Research · Industry Research**
 
-## Project Overview
+## 01 · Project Snapshot
 
-This project focused on the policy and industry context of zero-carbon industrial parks and the transition toward low-carbon development.
+| Item | Details |
+|---|---|
+| **Topic** | Zero-carbon industrial parks |
+| **Focus** | Dual-carbon policy + industry development |
+| **My role** | Policy research · information synthesis |
+| **Output** | Research materials + presentation |
 
-## My Work
+## 02 · Research Framework
 
-- Collected and reviewed relevant dual-carbon and zero-carbon development policies.
-- Organized policy information and extracted key requirements and directions.
-- Researched the development context of zero-carbon industrial parks.
-- Synthesized information into structured research materials and presentation content.
+~~~mermaid
+flowchart TD
+A[Dual-carbon Policy Context] --> B[Zero-carbon Industrial Park]
+B --> C[Policy Requirements]
+B --> D[Industry Development]
+C --> E[Key Trends & Issues]
+D --> E
+E --> F[Structured Research Output]
+~~~
 
-## Methods
+## 03 · My Contribution
 
-- Policy research
-- Industry research
-- Information extraction and synthesis
-- Comparative analysis
-- Presentation development
+### Policy Research
+- Collected relevant dual-carbon and zero-carbon development policies.
+- Extracted key requirements, directions and policy signals.
+- Organized information into a structured research framework.
 
-## Contribution
+### Industry Research
+- Reviewed the development context of zero-carbon industrial parks.
+- Connected policy direction with industrial sustainability.
+- Synthesized findings for project presentation.
 
-My main contribution was policy and information research, analysis and structured presentation. The project should not be interpreted as a claim of professional enterprise carbon-accounting experience.
+## 04 · Research Output Structure
 
-## Skills
+**Policy → Industry → Development Direction → Sustainability Implications**
 
-**Carbon Neutrality · Policy Research · Industry Research · Information Synthesis · Sustainability**
+This project developed my ability to translate a large amount of policy information into a concise analytical storyline.
+
+## 05 · Important Scope Note
+
+My contribution was primarily **policy and information research**.
+
+It should **not** be interpreted as professional enterprise carbon-accounting experience or expertise in GHG Protocol / ISO 14064.
+
+## 06 · Portfolio Evidence
+
+Potential visuals:
+- policy-timeline.png
+- industrial-park-framework.png
+- research-presentation.png
