@@ -1,29 +1,56 @@
 # Soil Carbon System Dynamics Research
 
-**Focus:** Soil Carbon · System Dynamics · Environmental Data · Sustainability
+> **Soil Carbon · Environmental Data · System Dynamics · Sustainability**
 
-## Project Overview
+## 01 · Project Snapshot
 
-My Master's research is moving from traditional environmental experiments toward quantitative analysis of the relationship between soil organic carbon and social-economic factors.
+| Item | Details |
+|---|---|
+| **Research stage** | Master's research |
+| **Topic** | Soil organic carbon |
+| **Perspective** | Environmental + socio-economic drivers |
+| **Data** | China soil organic carbon dataset |
+| **Approach** | Systems-oriented quantitative research |
 
-The research direction explores soil carbon from a broader environmental and socio-economic systems perspective.
+## 02 · From Environmental Science to Systems Thinking
 
-## Research Work
+My research direction is moving from traditional environmental experiments toward understanding environmental problems through interacting systems.
 
-- Conducted literature review on soil carbon and related drivers.
-- Explored relationships between soil carbon and environmental / socio-economic variables.
-- Worked with a China soil organic carbon dataset as part of the research process.
-- Organized research questions, variables and relevant background information.
-- Used data analysis and visualization tools to support the research.
+~~~mermaid
+flowchart LR
+A[Soil Organic Carbon] --> B[Environmental Drivers]
+A --> C[Land / Ecosystem Factors]
+A --> D[Socio-economic Factors]
+B --> E[System-level Understanding]
+C --> E
+D --> E
+~~~
 
-## Research Direction
+## 03 · My Current Research Work
 
-The project is intended to connect:
+- Conduct literature review on soil carbon and related drivers.
+- Organize research questions and candidate variables.
+- Explore relationships between soil carbon and environmental / socio-economic factors.
+- Work with a China soil organic carbon dataset.
+- Use data analysis and visualization to support the research process.
 
-**Soil Carbon → Environmental Drivers → Socio-economic Factors → System-level Understanding**
+## 04 · Why This Matters to My Career
 
-## Skills
+**Environmental Science → Data & Quantitative Analysis → Sustainability / Climate Problems**
 
-**Soil Carbon · Environmental Research · Data Analysis · System Dynamics · Literature Review · Data Visualization**
+This research connects environmental knowledge with data-oriented problem solving and is shaping my interest in sustainability roles.
 
-> This page describes my current research direction and should not be interpreted as claiming completed expertise in system-dynamics modeling.
+## 05 · Current Capability Boundary
+
+This is an **ongoing research direction**.
+
+I am currently developing my understanding of system-dynamics modeling and quantitative methods, so this page does not claim completed professional expertise in system-dynamics modeling.
+
+## 06 · Portfolio Evidence
+
+Potential visuals:
+- soil-carbon-framework.png
+- research-variable-map.png
+- data-analysis-example.png
+
+> Research data and unpublished work should only be uploaded after checking ownership and publication restrictions.
